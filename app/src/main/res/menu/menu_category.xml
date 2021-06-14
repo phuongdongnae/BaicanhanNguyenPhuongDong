@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mWomen"
+        android:title="Women"
+        android:icon="@drawable/women">
+    </item>
+    <item
+        android:id="@+id/mMen"
+        android:title="Men"
+        android:icon="@drawable/men">
+    </item>
+    <item
+        android:id="@+id/mKid"
+        android:title="Kid"
+        android:icon="@drawable/kid">
+    </item>
+</menu>
